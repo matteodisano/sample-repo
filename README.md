@@ -1,2 +1,2 @@
 # sample-repo
-git practice
+git practice-progress
